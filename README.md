@@ -11,7 +11,9 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer and tech enthusia
 🤔 I’m open to discussing best practices in software development, AI, and cloud infrastructure..<br/>
 ⚡ Fun fact: I love to travel and visit tech conferences around the world! 🌍<br/>
 
-## 🌐 Socials:
+---
+
+## 🌐 let's connect :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaikar-tridandapani/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tridandapani.jaikar21@gmail.com)
 
@@ -29,4 +31,10 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer and tech enthusia
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaikarT21&layout=compact&theme=radical)
 
 ---
+
+## ⚡ Fun Stats
+
+- 🌍 Languages Spoken: English, Hindi , telugu 
+- 🎮 Hobbies: Gaming, Traveling, Photography , fitness 
+- 🌱 Currently Learning: ML, AI, Cloud Development
 
